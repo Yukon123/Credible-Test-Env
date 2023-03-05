@@ -1,0 +1,1 @@
+console.log(['1'].flatMap(item => [item, item]));
